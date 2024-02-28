@@ -113,9 +113,3 @@ At the end of this project, We were able to undesrtand these questions:
 - betty linter 0.32
 - Valgrind
 
-
-### Try It On Your Machine :computer:	
-
-SORRY, DESPITE THE PROJECT IS FUNCTIONAL FOR EDUCATIONAL PURPOSES FOR YOU TO LEARN I AM NOT LEAVING IT AVAILABLE FOR TEST
-
-
